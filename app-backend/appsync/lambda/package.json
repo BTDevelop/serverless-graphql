@@ -15,7 +15,7 @@
   "dependencies": {
     "aws-sdk": "^2.176.0",
     "babel-polyfill": "^6.26.0",
-    "bluebird": "^3.5.1",
+    "bluebird": "^3.7.2",
     "node-fetch": "^1.7.3",
     "oauth": "^0.9.15",
     "serverless-appsync-plugin": "^0.0.5",
