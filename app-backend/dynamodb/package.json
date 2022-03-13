@@ -17,7 +17,7 @@
     "apollo-server-lambda": "^2.2.2",
     "aws-xray-sdk": "^2.1.0",
     "babel-polyfill": "^6.26.0",
-    "graphql": "^14.0.2",
+    "graphql": "^14.7.0",
     "serverless-dynamodb-client": "^0.0.2"
   },
   "devDependencies": {
