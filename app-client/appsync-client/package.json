@@ -10,7 +10,7 @@
     "apollo-link": "^1.0.7",
     "aws-amplify": "^0.1.36",
     "aws-amplify-react": "^0.1.31",
-    "aws-appsync": "^1.0.6",
+    "aws-appsync": "^1.0.22",
     "aws-appsync-react": "^1.0.4",
     "aws-sdk": "^2.184.0",
     "graphql": "^0.12.3",
