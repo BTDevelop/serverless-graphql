@@ -14,7 +14,7 @@
     "react": "^16.1.1",
     "react-apollo": "^2.0.1",
     "react-dom": "^16.1.1",
-    "react-scripts": "^1.0.17",
+    "react-scripts": "^2.0.3",
     "reset-css": "^2.2.1",
     "styled-components": "^2.2.3"
   },
