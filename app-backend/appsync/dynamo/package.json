@@ -19,7 +19,7 @@
     "aws-sdk": "^2.407.0",
     "babel-polyfill": "^6.26.0",
     "bluebird": "^3.5.1",
-    "serverless-appsync-plugin": "^1.0.0"
+    "serverless-appsync-plugin": "^2.0.0"
   },
   "devDependencies": {
     "aws-appsync": "ConduitVC/aws-appsync",
